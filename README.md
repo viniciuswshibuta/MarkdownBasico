@@ -56,16 +56,17 @@ _Italico_
 > > citação aninhada
 
 ## Inline code
-Para instalar essa lib rode `yarn install`
+**Exemplo:** Para instalar essa lib rode `yarn install`
 
 ## Code block
-Para instalar essa lib rode 
+**Exemplo:** Para instalar essa lib rode 
   ```
   bash
   yarn install
   ```
 
 ## Tabela
+**Exemplo:**
 | Name | Date | 
 | - | - |
 | A | 18/01/2023|
